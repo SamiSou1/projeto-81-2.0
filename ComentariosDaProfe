@@ -1,0 +1,14 @@
+Sandy, 
+
+No main.js:
+
+O StrokeStyle recebe uma cor,
+O lineWidth recebe uma espessura.
+
+Lembra que eu te falei que para recebe eu uso um sinal de igual?
+Você colocou assim:
+
+ctx.StrokeStyle - "grey".
+substitua o - por =
+
+Ok?
